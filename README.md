@@ -49,8 +49,3 @@ Este foi o trabalho principal da disciplina, focado em manipulação de dados es
 * Lógica para identificar o segundo maior/menor elemento, tratando casos especiais.
 * Entrada e saída de dados formatados com `iostream`.
 g++ nome_do_arquivo.cpp -o executavel
-
-# 3. Execute o programa gerado
-./executavel
-```
-> **Nota:** No Windows, o comando de execução após a compilação geralmente é apenas o nome do arquivo, por exemplo: `executavel.exe`.
